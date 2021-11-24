@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="heading">Welcome to Tic Tac Toe</string>
+    <string name="gird">Our Main Grid</string>
+    <string name="status">X`s turn - Tap to Play</string>
+    <string name="credit">Crafted by : Shashwat Pattanayak</string>
+</resources>
